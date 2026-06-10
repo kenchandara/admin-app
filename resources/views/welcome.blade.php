@@ -11,11 +11,11 @@
         <div class="mb-6">
             <span class="text-xs font-semibold tracking-widest uppercase px-3 py-1 bg-indigo-500/20 text-indigo-300 rounded-full">Laravel v13</span>
             <h1 class="text-4xl font-black mt-3 tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-white to-slate-400">
-                管理系统门户
+                管理系统-ANXIN后台
             </h1>
         </div>
         <p class="text-slate-400 text-sm mb-8 leading-relaxed">
-            基于 Laravel Breeze 构建的轻量级用户身份验证中心。点击下方按钮进入系统。
+            <!-- 基于 Laravel Breeze 构建的轻量级用户身份验证中心。点击下方按钮进入系统。 -->
         </p>
         <div class="space-y-3.5">
             @if (Route::has('login'))
